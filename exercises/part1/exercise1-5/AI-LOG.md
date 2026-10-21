@@ -1,13 +1,13 @@
 # AI Log — Exercise 1.5
 
 ## 1. What I Asked
-I asked AI for help creating an HTML about-me webpage with a heading, image, paragraphs, links, and sections about my background, goals, and learning mindset.
+I asked AI for help creating an About Me webpage using HTML, including a heading, a picture, paragraphs, a link, sections, and lists.
 
 ## 2. What I Got
-AI provided an HTML structure using headings <h1>, <h2>, paragraphs <p>, an image (<img> a link <a>, a horizontal rule <hr> lists <ol>, <ul>, and text formatting <strong>, <em>
+AI provided example HTML code and explanations of how to use headings, paragraphs, the <img> tag, the src and alt attributes, hyperlinks, horizontal rules, text formatting, and ordered and unordered lists.
 
 ## 3. What I Changed
-I personalised the webpage with my own name, learning journey, background, goals, and learning mindset. I added my picture to the `images` folder and updated the image path to images/Muatapha.jpg. I also added alternative text and set the image width to 200.
+I personalised the webpage with my own name, photograph, background, learning goals, and learning mindset. I created an images folder and saved my photograph as Mustapha.jpg. I updated the image path to images/Mustapha.jpg, added alternative text, and set the image width to 200 pixels. I also tested the webpage in my browser and checked that the picture displayed correctly.
 
 ## 4. Why
-I made these changes to make the webpage personal to me and to practise using HTML elements, relative image paths, alternative text, and image attributes. I checked the page in the browser to confirm that my picture appeared.
+I wanted to practise writing HTML independently, understand how images and links work, organise webpage content properly, and become more confident building webpages.
