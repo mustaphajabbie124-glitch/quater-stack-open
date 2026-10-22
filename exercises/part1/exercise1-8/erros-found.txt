@@ -1,0 +1,14 @@
+1. The <html> tag had no `lang` attribute added lang="en"` to declare the page language.
+2. The <title>element was missing its closing tag  added </title>.
+3. The <h1> heading had an incorrect closing tag  changed it to </h1>.
+4. The <h2> heading was missing its closing tag  added </h2>.
+5. The <strong> element had a mismatched closing tag  changed it to </strong>.
+6. The <h3> heading was missing its closing tag  added </h3>.
+7. The first <li> element was missing its closing tag  added </li>.
+8. The third <li> element was missing its closing tag  added </li>.
+9. The heading used </h3> instead of </h2> corrected the closing tag.
+10. An unnecessary nested `<ol>` was used for Book Three  removed the extra ordered-list tags.
+11. The Book Five list item was missing its closing tag added </li>.
+12. The “Thanks for visiting!” paragraph was missing its closing tag  added </p>.
+13. The <strong> element was closed after the paragraph  moved </strong> before </p>.
+14. The document was missing its closing </html>tag added </html>.
